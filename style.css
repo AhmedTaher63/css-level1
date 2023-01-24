@@ -1,0 +1,51 @@
+
+.body{
+    background-image : url(./images/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: darkgoldenrod;
+}
+h2,
+h3,
+h5
+{
+    color: floralwhite;
+}
+ul{
+    color:aqua;
+}
+a{
+    color: crimson;
+}
+img{
+    border : 3px solid black;
+    padding: 1px;
+}
+h1{
+    margin: 0 50% 0 50%;
+    text-shadow: 2px 0 8px red;
+    color: white;
+}
+.lin{
+    display: block;
+}
+input{
+    color: black;
+    background-color: black;
+}
+label{
+    color: aqua;
+}
+.button{
+    color: white;
+    background-color: gray;
+}
+select{
+    color: tan;
+    background-color: chocolate;
+}
+ol{
+    color: aqua;
+}
